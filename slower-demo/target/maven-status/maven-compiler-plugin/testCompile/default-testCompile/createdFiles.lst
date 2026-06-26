@@ -1,0 +1,4 @@
+com/company/employeedirectory/api/employee/EmployeeControllerTest.class
+com/company/employeedirectory/EmployeeDirectoryApplicationTest.class
+com/company/employeedirectory/domain/employee/EmployeeServiceTest.class
+com/company/employeedirectory/domain/employee/EmployeeRepositoryTest.class

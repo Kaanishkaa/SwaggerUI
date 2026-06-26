@@ -1,0 +1,10 @@
+package com.company.employeedirectory.exception;
+
+import java.util.UUID;
+
+public class EmployeeNotFoundException extends RuntimeException {
+
+    public EmployeeNotFoundException(UUID id) {
+        super("Employee with id '" + id + "' not found");
+    }
+}
